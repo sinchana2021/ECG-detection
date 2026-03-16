@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+torchmetrics
+numpy
+pandas
+scikit-learn
+wfdb
